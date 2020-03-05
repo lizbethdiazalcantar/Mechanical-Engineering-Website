@@ -1,0 +1,11 @@
+To create table in mysql for activity
+
+CREATE TABLE activity1( 
+	id int(4) not null PRIMARY KEY AUTO_INCREMENT, 
+	name varchar(2) not null, 
+	number_of_tries int(2) not null,
+	T1 int(5) not null, 
+	T2 int(5) not null, 
+	T3 int(5) not null, 
+	T4 int(5) not null, 
+	map varchar(10) not null)

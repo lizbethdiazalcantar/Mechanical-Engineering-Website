@@ -1,0 +1,66 @@
+body{
+color:white;}
+.column {
+margin-left:210px;
+margin-right:220px;
+}
+.column2{
+  margin-left:220px;
+margin-right:220px;
+background-color: rgb(71, 71, 71);
+width:205px;
+padding:30px;
+}
+.column3{
+  margin-left:220px;
+margin-right:220px;
+background-color: rgb(71, 71, 71);
+width:240px;
+padding:30px;
+}
+.column4{
+  margin-left:220px;
+margin-right:220px;
+background-color: rgb(71, 71, 71);
+width:240px;
+padding:30px;
+}
+.type1{
+  font-family:verdana; font-size:10;font-weight: bold;
+  position:absolute;left:1100px;top:600px; margin:0px;
+  padding: 0px;
+}
+.type2{
+  font-family:verdana; font-size:10;font-weight: bold;
+  position:absolute;left:1100px;top:1200px; margin:0px;
+  padding: 0px;
+}
+
+
+p{font-size:12pt;}
+.sub{font-size:9pt;text-align: center; background-color:black;height:20px;}
+
+ol{margin:0;}
+table{ position:absolute;left:540px;top:620px;font-family:verdana;font-size:9pt;}
+
+
+th, td {
+            padding: 4px;
+            text-align: left;
+            color:white;
+          }
+caption{font-family:verdana; font-size:12;font-weight: bold;}
+table#t01 th {
+         background-color: rgb(71, 71, 71);
+            color: white;
+          }
+         
+config{font-family:verdana;font-size:12pt;padding:0;}
+label {font-size:9pt;margin-left: 25px;text-align: center;}
+labelmain{font-size:12pt;}
+
+
+game{border: 2px solid rgb(71, 71, 71);position:absolute; left:550px;top:1200px; width:500px;height:500px;}
+span{font-family:verdana;color:black; font-weight: bold;}
+draw{position:absolute; left:0px;top:300px; }
+draw2{position:absolute; left:1100px;top:850px; }

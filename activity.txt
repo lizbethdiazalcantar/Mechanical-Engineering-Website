@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Welcome</title>
+<meta charset ="utf-8"/>
+<link rel="stylesheet" type="text/css" href="navigation.css">
+
+</head>
+<body>
+  <ul>
+    <li><a href="Welcome.html"  class="active">Welcome</a></li>
+    <li><a href="FunFacts.html"> Fun Facts</a></li>
+    <li><a href="activity1.html" > Activities</a></li>
+    <li><a href="Quiz.html"> Quiz</a></li>
+    <li><a href="login.html">Login</a></li>
+    <li><a href="register.html">Sign Up</a></li>
+    </ul>
+
+
+  <h1> What is mechanical engineering?</h1>
+  <p>Mechanical engineering is the study that uses engineering physics, engineering mathematics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems.
+    Mechanical engineers are able to use heat and mechanical power for the design, production, and operation of machines and tools.
+  Mechanical engineers can work on anything like a rocketship or something like a car. </p>
+<img src="mechanicaleng.jpg" alt="mechanical engineers">
+
+
+
+
+  </body>
+</html>
